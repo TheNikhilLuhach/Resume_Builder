@@ -41,7 +41,10 @@ Resume maker/
    pip install -r requirements.txt
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
+
+
+
 Python
 
 
