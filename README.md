@@ -1,12 +1,14 @@
-# Resume_Builder
-This will help you to Bild your resume with a resume checker and Carrier guide with help of Ai
+
 # 📝 Resume Maker Web App
 
 A simple and elegant web application built using **Streamlit** that allows users to input personal and professional details and generate a professional resume instantly.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This will help you to Bild your resume with a resume checker and Carrier guide with help of Ai
+______________________________________________________________________________________________
 ---
 
 ## 🚀 Features
+________________
 
 - Easy-to-use Streamlit interface
 - Dynamic resume generation based on user inputs
@@ -40,14 +42,12 @@ Resume maker/
 
 
 🛠️ Technologies Used
-Python
-
-Streamlit
-
-HTML/CSS
+>>>>>Python
+>>>Streamlit
+>>>>HTML/CSS
 
 🙌 Author
-Nikhil Kumar
+**Nikhil Kumar**
 Made during internship under Mr. Vimal Daga in the Linux World Informatics Pvt Ltd program.
 
 
