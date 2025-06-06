@@ -32,11 +32,11 @@ Resume maker/
    ```bash
    git clone https://github.com/your-username/resume-maker.git
    cd resume-maker
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 🛠️ Technologies Used
