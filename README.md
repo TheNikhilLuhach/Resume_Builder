@@ -16,4 +16,39 @@ A simple and elegant web application built using **Streamlit** that allows users
 ---
 
 ## 📂 Project Structure
+Resume maker/
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── templates/
+│ └── resume_template.html # HTML template for the resume
+└── .vscode/
+└── launch.json # VSCode debugging config
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/resume-maker.git
+   cd resume-maker
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+pip install -r requirements.txt
+
+
+🛠️ Technologies Used
+Python
+
+Streamlit
+
+HTML/CSS
+
+🙌 Author
+Nikhil Kumar
+Made during internship under Mr. Vimal Daga in the Linux World Informatics Pvt Ltd program.
+
+
 
