@@ -42,12 +42,24 @@ Resume maker/
 
 
 🛠️ Technologies Used
->>>>>Python
->>>Streamlit
->>>>HTML/CSS
+Python
+
+
+Streamlit
+
+
+
+HTML/CSS
 
 🙌 Author
+
+
+
+
 **Nikhil Kumar**
+
+
+
 Made during internship under Mr. Vimal Daga in the Linux World Informatics Pvt Ltd program.
 
 
