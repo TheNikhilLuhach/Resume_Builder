@@ -32,7 +32,7 @@ Resume maker/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/resume-maker.git
+   git clone https://github.com/TheNikhilLuhach/Resume_Builder.git
    cd resume-maker
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
